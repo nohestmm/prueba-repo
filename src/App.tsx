@@ -6,7 +6,7 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
-  console.log("ruta",import.meta.env.RUTA)
+  console.log("ruta nueva",import.meta.env.RUTA)
 
   return (
     <>
